@@ -1,0 +1,62 @@
+
+
+.login{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width:100%;
+    height:600px;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://wallpapercave.com/wp/wp2201949.jpg");
+    background-size: cover;
+}
+
+.google_logo{
+    width:16px;
+    height:16px;
+}
+
+.facebook_logo{
+    width:16px;
+    height:16px;
+}
+
+.apple_logo{
+    width:16px;
+    height:16px;
+}
+
+.google-login{
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 20px;
+    column-gap: 15px;
+}
+
+.facebook-login{
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 20px;
+    column-gap: 15px;
+}
+
+.apple-login{
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 20px;
+    column-gap: 15px;
+}
+
+.number-login{
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 20px;
+    column-gap: 15px;
+}
+
+.forgot-login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

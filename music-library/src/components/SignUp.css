@@ -1,0 +1,55 @@
+.signup{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width:100%;
+    height:600px;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/007/957/original/white-music-note-background-free-video.jpg");
+    background-size: cover;
+}
+
+.facebook-signup{
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    column-gap: 10px;
+    width:15rem;
+}
+
+.google-signup{
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    column-gap: 10px;
+    width:15rem;
+}
+
+.facebook-logo{
+    width:23px;
+    height:23px;
+}
+
+.google-logo{
+    width:23px;
+    height:23px;
+}  
+
+.buttons-signup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    gap:1rem;
+}
+.logo{
+    display: flex;
+}
+
